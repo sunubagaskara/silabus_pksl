@@ -2,6 +2,22 @@
 
 ## Deskripsi Mata Kuliah
 
+Mata kuliah *Penelitian Kuantitatif dan Statistik Lanjutan* dirancang untuk membekali mahasiswa dengan pemahaman mendalam mengenai prinsip, desain, serta penerapan metode penelitian kuantitatif dalam psikologi. Mahasiswa akan mempelajari berbagai desain penelitian, baik eksperimental (antara lain *between-subject, within-subject, faktorial, dan campuran*) maupun non-eksperimental seperti desain korelasional. Selain itu, mata kuliah ini juga menekankan keterampilan dalam merumuskan hipotesis, memahami logika pengujian hipotesis, serta memilih metode analisis statistik yang tepat sesuai dengan rancangan penelitian yang digunakan.
+
+Melalui perpaduan teori, latihan analisis, serta praktik perancangan penelitian mini, mahasiswa diharapkan mampu merancang dan melaksanakan penelitian kuantitatif secara mandiri, mulai dari tahap konseptualisasi, pengambilan data, analisis statistik, hingga penyusunan laporan hasil penelitian dalam format ilmiah. Kompetensi yang diperoleh dari mata kuliah ini akan menjadi landasan penting bagi mahasiswa dalam menyelesaikan penelitian skripsi maupun kegiatan riset lain yang membutuhkan pendekatan kuantitatif dan analisis statistik lanjutan.
+
 ## Tujuan
 
+Pada akhir semester Anda akan mampu...
+
+-   memahami prinsip-prinsip dasar dan penerapan penelitian kuantitatif eksperimental dan non eksperimental
+
+-   memahami pengujian hipotesis yang sesuai dengan metode penelitian yang dilakukan
+
+-   merancang dan menjalankan penelitian eksperimenal dan non eksperimental
+
 ## Instruktur
+
+Dosen pengampu utama MK PKSL [Sunu Bagaskara](https://scholar.google.co.id/citations?user=fgMG__YAAAAJ&hl=en) (kelas A) dan [Entin Nurhayati](https://scholar.google.co.id/citations?hl=en&user=F9qebwEAAAAJ) (kelas B).
+
+Selain itu, terdapat 2 asisten tutoring yang bersedia membantu untuk sesi teori dan praktikum dengan jadwal 2 jam per pekan: Selasa, pkl. 13.00-15.00.

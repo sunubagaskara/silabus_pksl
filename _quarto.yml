@@ -4,9 +4,7 @@ project:
 
 book:
   title: "Rencana Pembelajaran Semester"
-  author: 
-    - "Sunu Bagaskara"
-    - "Entin Nurhayati"
+  author: "Sunu Bagaskara"
   date: "8/28/2025"
   chapters:
     - index.qmd
