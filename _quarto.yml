@@ -1,0 +1,35 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Rencana Pembelajaran Semester"
+  author: 
+    - "Sunu Bagaskara"
+    - "Entin Nurhayati"
+  date: "8/28/2025"
+  chapters:
+    - index.qmd
+    - ringkasan.qmd
+    - materi.qmd
+    - policies.qmd
+  sidebar: 
+    style: docked
+  
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+  
+  pdf:
+    documentclass: scrreprt
+  
+  
+editor: visual
+

@@ -1,0 +1,17 @@
+# MKK151304: Penelitian Kuantitatif & Statistik Lanjutan {.unnumbered}
+
+::: {style="text-align: center;"}
+**Dr. Sunu Bagaskara, M. Si**\
+**Dr. Entin Nurhayati, M. Si**
+:::
+
+Semester Ganjil 2025/2026
+
+| Kelas | Waktu              | Ruangan | Lab      | Dosen           |
+|-------|--------------------|---------|----------|-----------------|
+| A     | Kamis, 10:00-14.40 | R 651   | Labkom 1 | Sunu Bagaskara  |
+| B     | Kamis, 10:00-14.40 | R 652   | Labkom 2 | Entin Nurhayati |
+
+Prasyarat: Penelitian Kuantitatif & Statistik Dasar (MKK151203)
+
+Untuk mengakses informasi, materi kuliah, dan tugas silakan masuk laman LAYAR YARSI di: <https://quarto.org/docs/books>.

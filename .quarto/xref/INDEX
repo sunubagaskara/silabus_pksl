@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "0612519b"
+  },
+  "intro.qmd": {
+    "intro.html": "edee1fc7"
+  },
+  "summary.qmd": {
+    "summary.html": "8591571d"
+  },
+  "references.qmd": {
+    "references.html": "20b9adc9"
+  },
+  "ringkasan.qmd": {
+    "ringkasan.html": "7da5ab41"
+  },
+  "materi.qmd": {
+    "materi.html": "92665b37"
+  },
+  "policies.qmd": {
+    "policies.html": "278db855"
+  }
+}
